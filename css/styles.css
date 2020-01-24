@@ -188,7 +188,7 @@ button:hover {
 .logo {
   float: left;
   width: 100px;
-  height: auto;
+  height: 100px;
 
   /* display: block;
   max-width: 100%; */
