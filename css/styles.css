@@ -188,7 +188,7 @@ button:hover {
 .logo {
   float: left;
   width: 100px;
-  height: 100px;
+  height: 50px;
 }
 
 /* You'll usually want to add your responsive classes at the very end of your CSS file, overwriting any rules that might have come before. */
