@@ -154,7 +154,6 @@ button:hover {
 .page-header {
   display: flex;
   width: 100%;
-  height: auto;
   padding: 20px;
 }
 
